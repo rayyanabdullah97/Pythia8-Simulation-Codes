@@ -1,4 +1,4 @@
-//Invariant diff cross section vs pT for Pb-Pb Coll at 
+//pT invariant yield  for Pb-Pb Coll at 
 //5.02TeV com energy for 0-5% Centrality
 #include<iostream>
 #include "Pythia8/Pythia.h"
